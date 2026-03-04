@@ -325,19 +325,29 @@ Power BI (DAX) – Dashboard & Business Intelligence
 Financial-Loan-Analysis/
 │
 ├── SQL/
+
 │   ├── data_cleaning.sql
+
 │   ├── loan_analysis_queries.sql
+
 │
 ├── Python/
+
 │   ├── Financial_Loan_Analysis.ipynb
+
 │
 ├── PowerBI/
+
 │   ├── Loan_Risk_Dashboard.pbix
+
 │
 ├── PPT/
+
 │   ├── Financial_Loan_Risk_Analysis_Project_Presentation.pptx
+
 │
 └── README.md
+
 
 ---
 
